@@ -1,0 +1,3 @@
+ implements the enrolment table to track participant registrations, including enrolment 
+status (confirmed, pending, cancelled), and inserts ten records to test the enrolment 
+workflow and status management.
