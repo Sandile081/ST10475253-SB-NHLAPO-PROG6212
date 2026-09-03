@@ -1,0 +1,3 @@
+creates the Participants table to manage competitor profiles, including name, surname, username, 
+and password fields, and populates it with five sample users to 
+simulate real-world participant interactions.
