@@ -1,0 +1,3 @@
+builds the Locations table to centralise venue information across South Africa, 
+inserting ten sample addresses to allow organisers to easily assign physical locations 
+to events without data duplication.
