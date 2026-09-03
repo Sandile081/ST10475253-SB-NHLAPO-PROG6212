@@ -1,0 +1,3 @@
+ts up the foundational database structure for the RaceDay platform,
+including primary keys and essential fields to support event management,
+user registration, and location tracking.
