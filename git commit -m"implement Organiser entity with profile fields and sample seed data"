@@ -1,0 +1,4 @@
+introduces the Organiser table to store event creators' 
+details such as name, surname, username, and password, and inserts 
+five organiser records to enable testing and development of event creation workflows.
+
