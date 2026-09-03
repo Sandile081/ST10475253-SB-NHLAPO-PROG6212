@@ -1,0 +1,4 @@
+creates the Results table to store official race outcomes, 
+linking each result to both the participant and the organiser who captured it, 
+with ten sample records that include finish times and overall ranks.
+
