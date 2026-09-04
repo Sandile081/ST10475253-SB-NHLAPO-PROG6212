@@ -1,0 +1,4 @@
+- Add Event_Enrolment table to resolve many-to-many between Participants and Events
+- Create Results table to capture finish times and positions
+- Add History table for immutable performance archiving
+- Define all foreign key relationships and constraints
