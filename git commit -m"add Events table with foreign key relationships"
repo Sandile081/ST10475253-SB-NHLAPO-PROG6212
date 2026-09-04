@@ -1,0 +1,5 @@
+- Create Events table with EventID as primary key
+- Link Events to Organisers via OrganiserID foreign key
+- Link Events to Categories via CategoriesID foreign key
+- Link Events to Locations via LocationID foreign key
+- Enforce referential integrity with ON DELETE and ON UPDATE constraints
