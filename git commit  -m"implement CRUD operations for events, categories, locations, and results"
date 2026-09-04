@@ -1,0 +1,4 @@
+- Add POST /api/events, /api/category, /api/location, /api/results for organisers
+- Organisers can create events with all required fields
+- Categories and locations are linked to events via foreign keys
+- Results capture finish times and positions for participants
