@@ -1,0 +1,4 @@
+- Add GET /api/results/{ResultsID} for viewing specific results
+- Add GET /api/participants/{ParticipantID}/results for participant's own results
+- Add GET /api/history and GET /api/participant/{ParticipantID}/history
+- Ensure 404 Not Found response when requested records do not exist
