@@ -1,0 +1,4 @@
+- Add SELECT * FROM queries for all 8 tables
+- Enable quick verification of inserted data
+- Support testing and validation of database population
+- Ensure all relationships are correctly linked
