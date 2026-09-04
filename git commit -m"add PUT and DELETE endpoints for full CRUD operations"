@@ -1,0 +1,4 @@
+- Implement PUT endpoints for organiser, participant, event, category, location, and result updates
+- Add DELETE /api/events/{EventID} for organisers to remove events
+- Return 200 OK on successful updates and deletions
+- Apply role-based access control: only organisers can manage events, categories, and locations
