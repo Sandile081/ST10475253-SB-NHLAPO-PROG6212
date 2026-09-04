@@ -1,0 +1,4 @@
+- Add POST /api/organiser for public organiser registration
+- Add POST /api/participants for public participant registration
+- Include validation for required fields: name, surname, username, password
+- Return 201 Created on success and 409 Conflict if username already exists
