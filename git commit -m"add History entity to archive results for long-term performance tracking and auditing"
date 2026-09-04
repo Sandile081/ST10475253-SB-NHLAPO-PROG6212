@@ -1,0 +1,3 @@
+ builds the History table to preserve immutable snapshots of all results, 
+ensuring data integrity and enabling participants to view their full performance 
+history over time, with twenty archival records inserted.
