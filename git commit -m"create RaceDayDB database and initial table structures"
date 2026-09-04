@@ -1,0 +1,4 @@
+- Create RaceDayDB database
+- Add Organisers, Participants, Categories, and Locations tables
+- Define primary keys and appropriate data types for each table
+- Set NOT NULL constraints on all required fields
