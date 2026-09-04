@@ -1,0 +1,4 @@
+- Implement GET /api/events to retrieve all events with joined data
+- Add GET /api/location and /api/location/{LocationID} for venue details
+- Add GET /api/event_enrolment to view all enrolments
+- All GET endpoints accessible to authenticated members (organisers and participants)
